@@ -20,11 +20,21 @@ Implementation of a Multi-Agent Deep Q-Network for Cooperative Grid World.
 
 ## Results(DQN14)
 
-Average Reward 138.70
+Average Reward(DQN14) 138.70
 
-Success Rate 98.80%
+Average Rewards Acress Models
 
-Loss Curve
+![DQN](docs/images/average_rewards_acress_models.png)
+
+Success Rate(DQN14) 98.80%
+
+Success Rate Across models
+
+![DQN](docs/images/success_rate_across_models.png)
+
+Loss Curve ![DQN](docs/images/loss.png)
+
+
 
 ## Structure
 
@@ -32,6 +42,4 @@ Loss Curve
 
 ## Run
 
-python train.py
-
-python evaluate.py
+download DQN14.pth, upload model and code to colab, and press run all!
