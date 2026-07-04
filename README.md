@@ -2,6 +2,10 @@
 
 Implementation of a Multi-Agent Deep Q-Network for Cooperative Grid World.
 
+## Demo
+
+![Demo](docs/gif/multi_agent.gif)
+
 ## Features
 
 ✔ PyTorch
